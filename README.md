@@ -1,2 +1,2 @@
 # Node-js-debugger
-debugger code for node js 
+Debugger for node js 
